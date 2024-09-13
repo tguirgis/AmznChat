@@ -38,7 +38,7 @@
 			[
 				{
 					"label":"Card Token",
-					"value": '1234567890',
+					"value": '',
 					"transcriptFields":[ "Card_Token__c" ],
 					"displayToAgent":true
 				},
