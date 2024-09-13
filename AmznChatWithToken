@@ -37,9 +37,9 @@
     embedded_svc.settings.extraPrechatFormDetails = 
 			[
 				{
-					"label":"Account Code",
-					"value": 'AccountCode',
-					"transcriptFields":[ "Account_Code__c" ],
+					"label":"Card Token",
+					"value": '1234567890',
+					"transcriptFields":[ "Card_Token__c" ],
 					"displayToAgent":true
 				},
       ];
