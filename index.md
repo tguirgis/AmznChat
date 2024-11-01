@@ -1,3 +1,6 @@
+<html>
+	<body>
+
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 
 <style type='text/css'>
@@ -72,3 +75,6 @@
 		initESW('https://service.force.com');
 	}
 </script>
+
+	</body>
+ </html>
