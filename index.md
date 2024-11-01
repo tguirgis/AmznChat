@@ -5,11 +5,11 @@
 
 <style type='text/css'>
 	.embeddedServiceHelpButton .helpButton .uiButton {
-		background-color: #ffffff;
+		background-color: #016179;
 		font-family: "Arial", sans-serif;
 	}
 	.embeddedServiceHelpButton .helpButton .uiButton:focus {
-		outline: 1px solid ##016179;
+		outline: 1px solid #016179;
 	}
 </style>
 
